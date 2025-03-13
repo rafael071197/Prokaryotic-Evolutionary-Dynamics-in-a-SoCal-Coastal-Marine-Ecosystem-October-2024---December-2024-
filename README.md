@@ -1,4 +1,4 @@
-# Prokaryotic-Evolutionary-Dynamics-in-a-SoCal-Coastal-Marine-Ecosystem (October-2024-to-December-2024)
+# Prokaryotic-Evolutionary-Dynamics-in-a-SoCal-Coastal-Marine-Ecosystem (October-2024 to December-2024)
 
 ## DATA GENERATION:
 
